@@ -5,17 +5,18 @@
 
 # Que bom que você chegou aqui!
 
-Esse é o reporitório do nosso curso e aqui você encontra todo o material que vamos estudar para desenvolver nosso conhecimento em programação a partir da linguagem Python.
+Esse é o repositório do nosso curso e aqui você encontra todo o material que vamos estudar para desenvolver nosso conhecimento em programação a partir da linguagem Python.
 
 ## Esse repositório está organizado da seguinte forma:
 
-- [Descrição do conteúdo programático]()
-- [Ferramentas utilizadas]()
-- [Conceitos chave]()
-- [Links dos materiais centrais de referência]() - Mas vale ressaltar que **todos!** os tópicos aqui listados possuem indicações de materiais externos para fortalecer e expandir o nosso conhecimento.
-- [Cadernos/Notebooks de prática]()
-- [Códigos de prática]()
-- [Mini projetos] ()
+- [Descrição do Conteúdo Programático](https://github.com/soterolab/curso-python/blob/main/README.md#descri%C3%A7%C3%A3o-do-conte%C3%BAdo-program%C3%A1tico)
+> Vale ressaltar que **todos!** os tópicos aqui listados possuem indicações de materiais externos para fortalecer e expandir o nosso conhecimento.
+- [Ferramentas Utilizadas](https://github.com/soterolab/curso-python/blob/main/README.md#quais-ferramentas-iremos-usar)
+- [Glossário e Conceitos Chave](https://github.com/soterolab/curso-python/blob/main/README.md#gloss%C3%A1rio-e-conceitos-chave)
+- [Indicações de Materiais para Estudo de Temas Relacionados](https://github.com/soterolab/curso-python/blob/main/README.md#indica%C3%A7%C3%B5es-de-materiais-para-estudo-de-temas-relacionados)
+- [Cadernos/Notebooks de prática](https://github.com/soterolab/curso-python/tree/main/notebooks)
+- [Códigos de prática](https://github.com/soterolab/curso-python/tree/main/codes)
+- [Mini projetos]()
     - Nuvem de palavras
 
 ## Descrição do Conteúdo Programático:
