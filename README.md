@@ -94,7 +94,7 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
 - [2º Como publicar as nossas alterações do Google Colab para o Github?](https://www.youtube.com/watch?v=ZDhIqvNgY2s)
 - [3º Atualizando um repositório *fork* com as alterações feitas no repositório *original*](https://www.youtube.com/watch?v=hXtHGSYfUOo)
 
-## Conceitos Chave
+## Glossário e Conceitos Chave
 
 #### Documentação Python: https://docs.python.org/pt-br/3/tutorial/
 O termo Documentação dentro da área de tecnologia significa um local que reúne todas as informações sobre como usar a ferramenta em questão. Seja ela uma linguagem de programação, biblioteca - qualquer coisa que você está querendo saber como funciona.
