@@ -1,8 +1,5 @@
 <img src="images/1.png">
 
-
-# Curso Python SoteroLab
-
 # Que bom que você chegou aqui!
 
 Esse é o repositório do nosso curso e aqui você encontra todo o material que vamos estudar para desenvolver nosso conhecimento em programação a partir da linguagem Python.
@@ -11,50 +8,11 @@ Esse é o repositório do nosso curso e aqui você encontra todo o material que 
 
 - [Descrição do Conteúdo Programático](https://github.com/soterolab/curso-python/blob/main/README.md#descri%C3%A7%C3%A3o-do-conte%C3%BAdo-program%C3%A1tico)
 > Vale ressaltar que **todos!** os tópicos aqui listados possuem indicações de materiais externos para fortalecer e expandir o nosso conhecimento.
-- [Ferramentas Utilizadas](https://github.com/soterolab/curso-python/blob/main/README.md#quais-ferramentas-iremos-usar)
-- [Glossário e Conceitos Chave](https://github.com/soterolab/curso-python/blob/main/README.md#gloss%C3%A1rio-e-conceitos-chave)
-- [Indicações de Materiais para Estudo de Temas Relacionados](https://github.com/soterolab/curso-python/blob/main/README.md#indica%C3%A7%C3%B5es-de-materiais-para-estudo-de-temas-relacionados)
+- [Ferramentas utilizadas](https://github.com/soterolab/curso-python/blob/main/README.md#quais-ferramentas-iremos-usar)
+- [Glossário e conceitos chave](https://github.com/soterolab/curso-python/blob/main/README.md#gloss%C3%A1rio-e-conceitos-chave)
+- [Indicações de materiais de temas relacionados](https://github.com/soterolab/curso-python/blob/main/README.md#indica%C3%A7%C3%B5es-de-materiais-para-estudo-de-temas-relacionados)
 - [Cadernos/Notebooks de prática](https://github.com/soterolab/curso-python/tree/main/notebooks)
 - [Códigos de prática](https://github.com/soterolab/curso-python/tree/main/codes)
-- [Mini projetos]()
-    - Nuvem de palavras
-
-## Descrição do Conteúdo Programático:
-
-### 1º Dia de ambientação com as ferramentas e introdução ao interpretador Python
-
-- 1º Tutoriais de Instalação do Python | Python Brasil
-    - [Instalação para o Sistema Operacional Linux](https://python.org.br/instalacao-linux/)
-    - [Instalação para o Sistema Operacional Windows](https://python.org.br/instalacao-windows/)
-    - [Instalação para o Sistema Operacional MAC](https://python.org.br/instalacao-mac/)
-- [Indicações de ferramentas de apoio no desenvolvimento em Pytho | Python Brasil](https://python.org.br/ferramentas/)
-
-- 2º Saiba mais:
-    - [História do Python | PyLadies BH](https://medium.com/pyladiesbh/python-hist%C3%B3ria-3e6272fcce6c)
-    - [Python para front end](https://www.hashtagtreinamentos.com/frontend-com-python)
-    - Zen of Python - https://peps.python.org/pep-0020/
-    - https://medium.com/internet-das-coisas/o-zen-do-phyton-235d6aab0b94
-    - História da computação:
-        - https://www.hostinger.com.br/tutoriais/o-que-e-cli#Shell_-_A_Base_do_CLI
-        - https://tecnoblog.net/especiais/eniac-primeiro-computador-do-mundo-completa-65-anos/
-        - https://tecnoblog.net/responde/quem-inventou-o-computador/
-    - Iniciativas importantes:
-        - https://www.pretalab.com/
-        - PyLadies Salvador - 
-
-- [3º Ferramentas auxiliares do nosso curso]()
-
-### 2º Variáveis e tipos básicos de dados & Condicionais
-### 3º Condicionais
-### 4º Laços de repetição
-### 5º Laços de repetição com Listas e Dicionários
-### 6º Funções e parâmetros
-### 7º Interpretação de erros
-
-## Materiais centrais de referência:
-- [Ó Py Ó - Grupo de Estudos do PyLadies Salvador](https://github.com/PyLadiesSalvador)
-- [Livro Pense em Pyhon de de Allen B. Downey](https://penseallen.github.io/PensePython2e/)
-- [Curso em Video - Python | Professor Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 
 ## Quais ferramentas iremos usar?
 
@@ -95,6 +53,141 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
 - [2º Como publicar as nossas alterações do Google Colab para o Github?](https://www.youtube.com/watch?v=ZDhIqvNgY2s)
 - [3º Atualizando um repositório *fork* com as alterações feitas no repositório *original*](https://www.youtube.com/watch?v=hXtHGSYfUOo)
 
+## Descrição do Conteúdo Programático:
+
+**Os materiais centrais de referência desse curso são:**
+
+- [Ó Py Ó - Grupo de Estudos do PyLadies Salvador](https://github.com/PyLadiesSalvador)
+- [Livro Pense em Pyhon de de Allen B. Downey](https://penseallen.github.io/PensePython2e/)
+- [Canal Programação Dinâmica | Kizzy Terra e Hallison Paz](https://www.youtube.com/programacaodinamica)
+- [Curso em Video - Python | Professor Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+
+### 1º Dia de ambientação com as ferramentas e introdução ao interpretador Python
+
+- 1º Perguntas de Orientação:
+    - [ Por que entender algoritmos e aprender programação?](https://youtu.be/-omDeXEli4A)
+    - [Qual é o ciclo de vida de um programa?](https://youtu.be/Dlcna6peoms)
+
+- 2º Tutoriais de Instalação do Python | Python Brasil
+    - [Instalação para o Sistema Operacional Linux](https://python.org.br/instalacao-linux/)
+    - [Instalação para o Sistema Operacional Windows](https://python.org.br/instalacao-windows/)
+    - [Instalação para o Sistema Operacional MAC](https://python.org.br/instalacao-mac/)
+    - Ferramentas para escrevermos nossos códigos:
+        - [Indicações de ferramentas de apoio no desenvolvimento em Python | Python Brasil](https://python.org.br/ferramentas/)
+- 3º história e contexto:
+    - [História do Python | PyLadies BH](https://medium.com/pyladiesbh/python-hist%C3%B3ria-3e6272fcce6c)
+    - [PEP 8 - Guia de Estilo Para Python | Tradução na página do Python Brasil](https://wiki.python.org.br/GuiaDeEstilo)
+    - [Python para front end](https://www.hashtagtreinamentos.com/frontend-com-python)
+    - [Zen of Python com Exemplos | Python Academy](https://pythonacademy.com.br/zen-of-python)
+    - [O Zen do Python Comentários sobre o PEP 20 — Zen of Python | Bruno Oliveira](https://medium.com/internet-das-coisas/o-zen-do-phyton-235d6aab0b94)
+    - História da computação:
+        - [A história do ENIAC, o primeiro computador do mundo | Tecnoblog por João Brunelli Moreno](https://tecnoblog.net/especiais/eniac-primeiro-computador-do-mundo-completa-65-anos/)
+        - [Quem inventou o computador? | Tecnoblog por Ronaldo Gogoni](https://tecnoblog.net/responde/quem-inventou-o-computador/)
+        - [O Que é CLI? Explicamos a Interface de Linhas de Comando | Hostinger por Andrei L.](https://www.hostinger.com.br/tutoriais/o-que-e-cli#Shell_-_A_Base_do_CLI)
+    - Iniciativas importantes:
+        - [AfroPython](https://www.instagram.com/afropython/)
+        - [PretaLab](https://www.pretalab.com/)
+        - [PyLadies Salvador](https://github.com/PyLadiesSalvador)
+
+### 2º Variáveis e tipos básicos de dados
+
+- **Capítulo 1**: [A jornada do programa | PensePython2e](https://penseallen.github.io/PensePython2e/01-jornada.html)
+- **Capítulo 2**: [Variáveis, expressões e instruções | PensePython2e](https://penseallen.github.io/PensePython2e/02-vars-expr-instr.html)
+
+- **Tópicos abordados**:
+  - Formas de executar Python
+  - Variáveis (Atribuição, nomenclatura)
+  - Tipos de dados
+  - Expressões e instruções
+  - Ordem das operações
+  - Operações de Strings
+  - Comentários
+  - Erros comuns
+  
+- **Materiais de apoio**:
+  1. [Operando com Números em Python | Programação Dinâmica](https://www.youtube.com/watch?v=hysCU5CWl80)
+  2. [O que é e como se utiliza uma variável? | Programação Dinâmica](https://www.youtube.com/watch?v=tZ-3EGw5IPw)
+  3. [Primeiros passos no Python: Um tour pela linguagem | DevMedia](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
+  
+### 3º Condicionais
+
+- **Capítulo 5**: [Condicionais | PensePython2e - **apenas até o tópico 5.7 - Condicionais aninhadas)**](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
+
+- **Tópicos abordados**:
+  - Expressões booleanas
+  - Operadores lógicos
+  - Execuções condicionais (If)
+  - Execução alternativa (else)
+  - Condições aninhadas
+
+- **Materiais de apoio**:
+  1. [Comparando Números | Programação Dinâmica](https://www.youtube.com/watch?v=pB0UeU7SIo0)
+  2. [Analisando Condições em Python | Programação Dinâmica](https://www.youtube.com/watch?v=HquOtDNB608)
+  3. [Condições (Parte 1) | Curso em Vídeo](https://www.youtube.com/watch?v=K10u3XIf1-Q)
+
+### 4º Laços de repetição
+
+- **Curso Python 013**: [Estrutura de repetição for | Curso em Vídeo](https://www.youtube.com/watch?v=cL4YDtFnCt4&ab_channel=CursoemV%C3%ADdeo)
+- **Capítulo 7**: [Interação | PensePython2e](https://penseallen.github.io/PensePython2e/07-iteracao.html)
+- **Capítulo 8**: [Strings | PensePython2e](https://penseallen.github.io/PensePython2e/08-strings.html)
+
+- **Tópicos abordados**:
+  - Reatribuição
+  - Instrução While, break e for
+  - Strings (cadeia de caracteres)
+  - Fatiamento de strings
+
+- **Materiais de apoio**:
+  1. [Strings e Criptografia | Programação Dinâmica](https://www.youtube.com/watch?v=COtUf6E5U3M)
+
+### 5º Laços de repetição, Listas & Dicionários
+
+
+- **Capítulo 10**: [Listas | PensePython2e](https://penseallen.github.io/PensePython2e/10-listas.html)
+- **Capítulo 11**: [Dicionários | PensePython2e](https://penseallen.github.io/PensePython2e/11-dicionarios.html)
+
+- **Tópicos abordados**:
+  - Reforçando laços de repetição
+  - Listas
+  - Dicionários
+
+- **Materiais de apoio**:
+  1. [Repetições em Python I - Iterações Definidas | Programação dinâmica](https://www.youtube.com/watch?v=H3uppJ2XU9Y)
+  2. [Repetições em Python II — Iterações Condicionais | Programação dinâmica](https://www.youtube.com/watch?v=3nkdjBE3Xlo)
+  3. [LISTAS em PYTHON | Programação dinâmica](https://www.youtube.com/watch?v=Mjl1O9ANFrI)
+
+- **Extra**:
+  - [O que são Tuplas em Python | Didática Tech](https://www.youtube.com/watch?v=BVNGvpK9VoA)
+
+
+### 6º Funções e parâmetros
+
+- **Capítulo 3**: [Funções | PensePython2e](https://penseallen.github.io/PensePython2e/03-funcoes.html)
+- **Capítulo 6**: [Funções com resultado | PensePython2e - **apenas tópicos _6.1 - Valores de retorno_ e _6.9 - Depuração_**)](https://penseallen.github.io/PensePython2e/06-funcoes-result.html) 
+
+- **Tópicos abordados**:
+  - Funções
+  - Parâmetros
+  - Funções com resultado
+  - Depuração
+
+- **Materiais de apoio**:
+  1. [Funções em Python | Programação Dinâmica](https://www.youtube.com/watch?v=7hJntZxux0M)
+  2. [Relembrando tipos de dados: Conhecendo Tipos de Dados em Python | Programação Dinâmica](https://www.youtube.com/watch?v=EosATvOIHEs)
+
+### 7º Interpretação de erros
+
+- **Apêndice A: Depuração**: [Apêndice A: Depuração | PensePython2e](https://penseallen.github.io/PensePython2e/A-depuracao.html)
+
+- **Tópicos abordados**:
+  - Erros de sintaxe
+  - Erros de tempo de execução
+  - Erros semânticos
+
+- **Materiais de apoio**:
+  1. [Erros e exceções | Documentação oficial do Python](https://docs.python.org/pt-br/3/tutorial/errors.html)
+  2. [Tratamento de erros e exceções no Python com try/except | | Python Academy por Vinícius Ramos](https://pythonacademy.com.br/blog/tratamento-erros-excecoes-no-python)
+
 ## Glossário e Conceitos Chave
 
 #### Documentação Python: https://docs.python.org/pt-br/3/tutorial/
@@ -120,10 +213,39 @@ Já a **Semântica** da linguagem de programação trata do significado das expr
 - [Qual a diferença entre sintaxe e semântica?](https://kenzie.com.br/blog/valor-semantico/)
 
 #### Paradigmas de Programação
+
 - https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/
+
+#### Arquitetura WEB
+
+- [O Modelo Cliente Servidor | GTA UFRJ](https://www.gta.ufrj.br/ensino/eel878/redes1-2016-1/16_1/p2p/modelo.html)
 
 ## Indicações de Materiais para Estudo de Temas Relacionados
 
 ### Análise, Ciência e Visualização de Dados
+-  [ O QUE É UM BANCO DE DADOS? | Computação para Curiosos  | Programação Dinâmica - Kizzy Terra](https://www.youtube.com/watch?v=P6uiLQ6F7Mo&list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu&index=1&pp=iAQB)
+-  [SQL é importante para Cientista de Dados? Por que aprender SQL? | Programação Dinâmica - Kizzy Terra](https://youtu.be/vyTA2uG0uX8?list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu)
+-  [Curso Básico de SQL para Análise de Dados | Programação Dinâmica - Kizzy Terra](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5n1N15kcK1m9oKJm_cv-m6)
 - [Visualização de Dados (Pós da Computação@UFCG) | Nazareno Andrade](https://www.youtube.com/watch?v=L6b8RBrB-n4&list=PLvvIUEwTZK9wJ0XnUtW6prMVeDx8QIXCN)
 - [Ciência de Dados Descritiva | Nazareno Andrade](https://www.youtube.com/watch?v=x5A6xTTvNQw&list=PLvvIUEwTZK9yHJ4R2CCrKqITW9GrFNSig)
+
+### Entrevista Técnica
+
+- [Resolvendo questões de entrevistas técnicas do GOOGLE | PROBLEMA TÉCNICO #01 | Live Coding - Hallison Paz](https://youtu.be/-VpH54mhSu4?list=PL5TJqBvpXQv4Fs0jYmFUKsBUpyfefUuJp)
+
+### Classes e Objetos
+
+- [Classes e objetos | PensePython2e](https://penseallen.github.io/PensePython2e/15-classes-objetos.html)
+- [Classes e funções | PensePython2e](https://penseallen.github.io/PensePython2e/16-classes-funcoes.html)
+- [O que é um Objeto? | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+- [Classes | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+- [Paradigmas de Programação | Código Fonte TV](https://www.youtube.com/watch?v=EefVmQ2wPlM)
+
+### Classes e Herança
+
+- [Classes e métodos | PensePython2e](https://penseallen.github.io/PensePython2e/17-classes-metodos.html)
+- [Herança | PensePython2e](https://penseallen.github.io/PensePython2e/18-heranca.html)
+- [O que é um Objeto? | Programação Dinâmica](https://www.youtube.com/watch?v=gJC02P6jkRM)
+- [Classes | Programação Dinâmica](https://www.youtube.com/watch?v=9nWMXIXNGdU)
+- [Representando Objetos em Strings | Programação Dinâmica](https://www.youtube.com/watch?v=ei9-eCyon7I)
+- [Sobrecarga de Operadores | Programação Dinâmica](https://www.youtube.com/watch?v=RlFcUIVZGXM)
