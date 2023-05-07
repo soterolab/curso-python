@@ -121,7 +121,7 @@ Já a **Semântica** da linguagem de programação trata do significado das expr
 #### Paradigmas de Programação
 - https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/
 
-## Indicações de Materiais por Tema
+## Indicações de Materiais para Estudo de Temas Relacionados
 
 ### Análise, Ciência e Visualização de Dados
 - [Visualização de Dados (Pós da Computação@UFCG) | Nazareno Andrade](https://www.youtube.com/watch?v=L6b8RBrB-n4&list=PLvvIUEwTZK9wJ0XnUtW6prMVeDx8QIXCN)
