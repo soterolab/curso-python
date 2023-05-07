@@ -90,6 +90,10 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
 
 **Quando não usar o Google Colab?** Quando a sua atividade incluir dados que não sejam públicos, que devem ser protegidos pela LGPD e/ou sejam informações confidenciais da sua empresa ou organização. 
 
+- [1º Como usar o Google Colab?](https://www.youtube.com/watch?v=7OUGVn7sbTQ)
+- [2º Como publicar as nossas alterações do Google Colab para o Github?](https://www.youtube.com/watch?v=ZDhIqvNgY2s)
+- [3º Atualizando um repositório *fork* com as alterações feitas no repositório *original*](https://www.youtube.com/watch?v=hXtHGSYfUOo)
+
 ## Conceitos Chave
 
 #### Documentação Python: https://docs.python.org/pt-br/3/tutorial/
