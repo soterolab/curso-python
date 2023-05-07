@@ -192,10 +192,11 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
 
 #### Documentação Python: https://docs.python.org/pt-br/3/tutorial/
 O termo Documentação dentro da área de tecnologia significa um local que reúne todas as informações sobre como usar a ferramenta em questão. Seja ela uma linguagem de programação, biblioteca - qualquer coisa que você está querendo saber como funciona.
+
 #### Guia de estilo para Python:
 São recomendações sobre como escrever o nosso código de forma que ele fique mais organizado e inteligível por outras pessoas.
-**Original em Inglês:** https://peps.python.org/pep-0008/
-**Tradução na página do Python Brasil:** https://wiki.python.org.br/GuiaDeEstilo
+- **Original em Inglês:** https://peps.python.org/pep-0008/
+- **Tradução na página do Python Brasil:** https://wiki.python.org.br/GuiaDeEstilo
 
 #### Biblioteca *(No contexto de Programação)*
 Uma forma de entendermos o termo Bibliotecas na área de programação é pensá-lo como uma caixinha que reúne ferramentas que nós gostaríamos de utilizar para resolver um problema. Sendo que nós não vamos precisar construir essa ferramenta porque ela já foi feita e muito bem testada por outras pessoas - vamos poder simplesmente reusar aquilo.
