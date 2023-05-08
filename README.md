@@ -108,7 +108,11 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
   1. [Operando com Números em Python | Programação Dinâmica](https://www.youtube.com/watch?v=hysCU5CWl80)
   2. [O que é e como se utiliza uma variável? | Programação Dinâmica](https://www.youtube.com/watch?v=tZ-3EGw5IPw)
   3. [Primeiros passos no Python: Um tour pela linguagem | DevMedia](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)
-  
+  4. [Workshop de Python com DOJO - Pyladies Rio de Janeiro e Pyladies Caxias](https://github.com/PyLadiesRio/workshop-python)
+      - Começe pelo arquivo de sumário ([SUMMARY.md](https://github.com/PyLadiesRio/workshop-python/blob/master/SUMMARY.md))
+      - E em seguida pelo [arquivo de que explica o que é um DOJO](https://github.com/PyLadiesRio/workshop-python/blob/master/regras_dojo.md)
+      - Para exercitar o conteúdo dessa sessão faça as atividades que estão em DOJO 1, DOJO 2, DOJO 3 e DOJO 4.
+      
 ### 3º Condicionais
 
 - **Capítulo 5**: [Condicionais | PensePython2e - **apenas até o tópico 5.7 - Condicionais aninhadas)**](https://penseallen.github.io/PensePython2e/05-cond-recur.html)
