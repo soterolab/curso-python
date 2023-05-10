@@ -62,6 +62,8 @@ Markdown é um linguagem usada para facilitar a formatação de textos em sites.
 - [Canal Programação Dinâmica | Kizzy Terra e Hallison Paz](https://www.youtube.com/programacaodinamica)
 - [Curso em Video - Python | Professor Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
 - [Livro Introdução à Programação com Python de Nilo Ney Coutinho Menezes - Exercícios Resolvidos](https://python.nilo.pro.br/exercicios3/index.html)
+
+
 O livro [How to Think Like a Computer Scientist de Jeffrey Elkner, Allen B. Downey e Chris Meyers](https://www.openbookproject.net/thinkcs/python/english2e/index.html) também é uma ótima forma de reforçar os conhecimentos e estimular a leitura em inglês.
 
 ### 1º Dia de ambientação com as ferramentas e introdução ao interpretador Python
