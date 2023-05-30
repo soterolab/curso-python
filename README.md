@@ -68,7 +68,7 @@ O livro [How to Think Like a Computer Scientist de Jeffrey Elkner, Allen B. Down
 
 ### 1º Dia de ambientação com as ferramentas e introdução ao interpretador Python
 
-- 1º Perguntas de Orientação:
+- 1º Perguntas de OrientAção:
     - [ Por que entender algoritmos e aprender programação?](https://youtu.be/-omDeXEli4A)
     - [Qual é o ciclo de vida de um programa?](https://youtu.be/Dlcna6peoms)
 
@@ -116,6 +116,7 @@ O livro [How to Think Like a Computer Scientist de Jeffrey Elkner, Allen B. Down
       - Começe pelo arquivo de sumário ([SUMMARY.md](https://github.com/PyLadiesRio/workshop-python/blob/master/SUMMARY.md))
       - E em seguida pelo [arquivo de que explica o que é um DOJO](https://github.com/PyLadiesRio/workshop-python/blob/master/regras_dojo.md)
       - Para exercitar o conteúdo dessa sessão faça as atividades que estão em DOJO 1, DOJO 2, DOJO 3 e DOJO 4.
+  5. [Formatação de Strings - Python String Format Cookbook | Marcus Kazmierczak](https://mkaz.blog/working-with-python/string-formatting/)
       
 ### 3º Condicionais
 
