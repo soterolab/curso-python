@@ -232,6 +232,9 @@ Já a **Semântica** da linguagem de programação trata do significado das expr
 
 ## Indicações de Materiais para Estudo de Temas Relacionados
 
+### API
+- [Introdução a API com Flask | PyLadies Salvador](https://github.com/PyLadiesSalvador/intro-api)
+
 ### Análise, Ciência e Visualização de Dados
 -  [ O QUE É UM BANCO DE DADOS? | Computação para Curiosos  | Programação Dinâmica - Kizzy Terra](https://www.youtube.com/watch?v=P6uiLQ6F7Mo&list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu&index=1&pp=iAQB)
 -  [SQL é importante para Cientista de Dados? Por que aprender SQL? | Programação Dinâmica - Kizzy Terra](https://youtu.be/vyTA2uG0uX8?list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu)
