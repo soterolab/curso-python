@@ -224,7 +224,7 @@ Já a **Semântica** da linguagem de programação trata do significado das expr
 
 #### Paradigmas de Programação
 
-- [Paradigmas de programação: o que são e quais os principais? | Cairo Noleto em Trybe](https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/
+- [Paradigmas de programação: o que são e quais os principais? | Cairo Noleto em Trybe](https://blog.betrybe.com/tecnologia/paradigmas-de-programacao/)
 
 #### Arquitetura WEB
 
