@@ -220,7 +220,7 @@ E podemos entender Framework da mesma forma que entendemos Biblioteca. Só que o
 Em programação a **Sintaxe** representa as regras que a gente precisa seguir para que a nossa mensagem seja entendida pelo nosso ouvinte. Então se vamos escrever um programa em Python, temos que respeitar a Sintaxe do Python. Se queremos escrever um texto em Markdown, vamos precisar seguir a Sintaxe do Markdown.
 
 Já a **Semântica** da linguagem de programação trata do significado das expressões usadas na respectiva linguagem, é o que vai garantir que o print() deve imprimir a variável que lhe foi passada ao invés elevar ela ao quadrado, por exemplo. Semântica também é a relação entre o que gostaríamos que o código fizesse e o que de fato escrevemos para ele fazer.
-- [Qual a diferença entre sintaxe e semântica?](https://kenzie.com.br/blog/valor-semantico/)
+- [Qual a diferença entre sintaxe e semântica? | Ugo Roveda em Kenzie](https://kenzie.com.br/blog/valor-semantico/)
 
 #### Paradigmas de Programação
 
