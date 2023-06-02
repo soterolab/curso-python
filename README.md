@@ -234,6 +234,7 @@ Já a **Semântica** da linguagem de programação trata do significado das expr
 
 ### API
 - [Introdução a API com Flask | PyLadies Salvador](https://github.com/PyLadiesSalvador/intro-api)
+- [Tipos de Parâmetros nas requisições REST | Thiago Marinho em Blog da Rocketseat](https://blog.rocketseat.com.br/tipos-de-parametros-nas-requisicoes-rest/)
 
 ### Análise, Ciência e Visualização de Dados
 -  [ O QUE É UM BANCO DE DADOS? | Computação para Curiosos  | Programação Dinâmica - Kizzy Terra](https://www.youtube.com/watch?v=P6uiLQ6F7Mo&list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu&index=1&pp=iAQB)
