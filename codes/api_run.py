@@ -8,7 +8,7 @@ ANO_ATUAL = datetime.now().year
 
 @app.route('/')
 def hello_world():
-    return 'Hello World!'
+    return 'Olá Turma Aya'
 
 @app.route("/<nome>")
 def index_parametro_rota(nome):
@@ -26,7 +26,7 @@ def cadastrar():
     nascimento = request.args.get('nascimento')
     signo = request.args.get('signo')
 
-    if nome and telefone and signo and signo:
+    if nome and telefone and nascimento and signo:
         AGENDA[nome] = {'telefone': telefone,
                         'nascimento': nascimento,
                         'signo': signo
@@ -39,13 +39,13 @@ def cadastrar():
 
     return msg, status
 
-@app.route("/lista/<nome>")
-def listar_telefones(nome):
+@app.route("/lista/<user>")
+def listar_telefones(user):
     status = 404
     resposta = {}
 
-    if contato_existe(nome):
-        resposta[nome] = AGENDA.get(nome)
+    if contato_existe(user):
+        resposta[user] = AGENDA.get(user)
         status = 200
     
     return jsonify(contatos=resposta, total=len(resposta)), status
