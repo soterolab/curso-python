@@ -4,6 +4,8 @@
 
 Esse é o repositório do nosso curso e aqui você encontra todo o material que vamos estudar para desenvolver nosso conhecimento em programação a partir da linguagem Python.
 
+>  “ensinar não é transferir conhecimento, mas criar as possibilidades para a sua produção ou a sua construção” - Paulo Freire (Pedagogia da Autonomia, Pág 20). 
+>  
 ## Esse repositório está organizado da seguinte forma:
 
 - [Descrição do Conteúdo Programático](https://github.com/soterolab/curso-python/blob/main/README.md#descri%C3%A7%C3%A3o-do-conte%C3%BAdo-program%C3%A1tico)
